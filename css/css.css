@@ -158,14 +158,25 @@ nav ul li a{
 
 #sobre{
     border-bottom:4px #424242 solid ;
+    
+    
+}
+#contato{
+    
+    
+    margin-bottom: -5px;
+}
+#sobre ul{
+      margin-bottom: 70px;
+    margin-top: 20px;
+    
 }
 #sobre ul,#contato ul {
     margin-left: 70px;
     display: flex;
     flex-direction: row;
     list-style: none;
-    margin-bottom: 70px;
-    margin-top: 20px;
+    
     
 }
 #sobre ul li,#contato ul li {
@@ -198,6 +209,17 @@ text-align: center;
     margin-left: 220px;
     
     
+}
+#contato div{
+	position:relative;
+	top:-80px;
+	left:700px;
+}
+#contato div img{
+
+    width: 45px;
+    height: 45px;
+    padding: 2px;
 }
 
 
