@@ -211,6 +211,9 @@ text-align: center;
     
 }
 #contato div{
+
+    display: block;
+    width: 300px;
 	position:relative;
 	top:-80px;
 	left:700px;
