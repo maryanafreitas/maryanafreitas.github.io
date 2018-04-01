@@ -188,8 +188,17 @@ text-align: center;
 #contato ul li{
    font-family: 'Dosis', sans-serif; 
     margin-left: -100px;
+    
 }
-
+#contato ul  p{
+    width: 150px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-left: 220px;
+    
+    
+}
 
 
 /*============ Rodape==========*/  
